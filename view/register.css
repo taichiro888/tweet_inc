@@ -1,0 +1,135 @@
+
+
+body{
+
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+div.route_signup {
+
+	width: 890px;
+	height: 490px;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 150px;
+	padding-bottom: 50px;
+	padding-left: 23px;
+	padding-right: 23px;
+}
+
+div.page_canvas {
+	width: 500px;
+	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 0;
+}
+
+div.signup_wrapper {
+	width: 100%;
+	height: 100%;
+
+}
+
+h1 {
+	height: 10%;
+	clear: both;
+	font-family: font-family: Arial, 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka, メイリオ, Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+	font-size: 30px;
+	margin-bottom: 24px;
+
+}
+
+
+form.form_signup {
+	width: 100%;
+	height: 90%;
+}
+
+div.prompt_name{
+	width: 100%;
+	height: 8%;
+	margin: 0;
+	margin-bottom: 10%;
+
+}
+input#full_name {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+div.prompt_email{
+	width: 100%;
+	height: 8%;
+	margin: 0;
+	margin-bottom: 10%;
+}
+
+input#full_email{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+div.prompt_passwd{
+	width: 100%;
+	height: 8%;
+	margin-bottom: 17%;
+	margin: 0;
+}
+
+input#full_passwd{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+div.doit {
+	width: 100%;
+	height: 8%;
+	margin-top: 10%;
+	margin-bottom: 17%;
+
+}
+
+.sign_up_box {
+	
+	width: 25%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+input.submit.button.signup {
+	width: 18%;
+	height: 100%;
+	padding: 0;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
